@@ -3,7 +3,7 @@
 word1 = input('enter first word :')
 word2 = input('enter 2nd word :')
 
-#transform 2 words into 2 lists of their letters
+#transform 2 words into 2 lists of their own letters
 
 wordlist1 = [ch for ch in word1]
 wordlist2 = [ch for ch in word2]
